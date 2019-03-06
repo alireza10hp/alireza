@@ -37,7 +37,7 @@ out/
 .idea/misc.xml
 alireza.iml
 .idea/modules.xml
-
+.idea/encodings.xml
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
