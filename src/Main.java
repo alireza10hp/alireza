@@ -4,9 +4,10 @@ public class Main {
         System.out.println("MERGE TEST");
         System.out.println(x);
         int y=0;
+        y++ ;
         System.out.println("Hello World");
-        //salam
-        int c = 0;
+
+
         
     }
 }
