@@ -38,6 +38,7 @@ out/
 alireza.iml
 .idea/modules.xml
 .idea/encodings.xml
+# SALAM
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
