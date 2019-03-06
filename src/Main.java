@@ -7,12 +7,11 @@ public class Main {
         y++ ;
         System.out.println("Hello World");
 
-
-        
         //salam
         int c = 0;
         int d =0;
         int dcds= 1;
+        System.out.println("x = " + x);
 
 
     }
