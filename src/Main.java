@@ -9,5 +9,11 @@ public class Main {
 
 
         
+        //salam
+        int c = 0;
+        int d =0;
+        int dcds= 1;
+
+
     }
 }
